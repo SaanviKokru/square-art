@@ -1,0 +1,12 @@
+#qwerty{
+position:fixed ;
+bottom: 0;
+text-align: center;
+color: white;
+background-color: indigo;
+width: 100%;
+line-height: 20px;
+}
+canvas{
+border: 2px purple dashed;
+}
